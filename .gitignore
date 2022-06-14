@@ -1,0 +1,4 @@
+node_modules
+shell.nix
+.envrc
+package-lock.json

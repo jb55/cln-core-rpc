@@ -1,0 +1,19 @@
+{
+  "name": "cln-core-rpc",
+  "description": "cln-core-rpc",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/jb55/cln-core-rpc"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "devDependencies": {
+    "tap": "~0.2.5"
+  },
+  "dependencies": {
+    "bitcoin": "github:jb55/node-bitcoin",
+    "clightningjs": "^0.2.2"
+  }
+}
