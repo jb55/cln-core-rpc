@@ -1,7 +1,7 @@
 
 # cln-core-rpc
 
-Expose bitcoin-core rpc as a clightning RPC.
+clightning plugin that exposes bitcoin-core rpc as a clightning RPC.
 
 ## Why
 
